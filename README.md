@@ -6,14 +6,14 @@ The repository contains the class(es) written for classification of 20 News Grou
 Lucene is basically used for full text indexing or searching purposes.
 The book which I referred was 'Text Processing in JAVA by Mitzi Morris'.
 
+ClassifyNewGroups.java class is for the classification of 20NewsGroups.
+The data set can be downloaded from http://qwone.com/~jason/20Newsgroups/
+For classification purpose '20news-bydate.tar.gz' was used as it was already divided into test and training set.
+
 The original version of the code can be found at
 https://github.com/colloquial/javabook/tree/master/src/applucene/src/com/colloquial/applucene
 I have hard coded the path of the train and test directories and the location where the index has to be created.
 The original code uses xml for specifying the path. The xml can be found at the aforementioned link.
-
-ClassifyNewGroups.java class is for the classification of 20NewsGroups.
-The data set can be downloaded from http://qwone.com/~jason/20Newsgroups/
-For classification purpose '20news-bydate.tar.gz' was used as it was already divided into test and training set.
 
 The optput has been modified a bit and it looks like the following after adjusting the spaces.
 The confusion matrix looks like below.
