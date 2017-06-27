@@ -8,6 +8,11 @@ The book which I referred was 'Text Processing in JAVA by Mitzi Morris'.
 
 The original version of the code can be found at
 https://github.com/colloquial/javabook/tree/master/src/applucene/src/com/colloquial/applucene
+I have hard coded the path of the train and test directories and the location where the index has to be created.
+The original code uses xml for specifying the path. The xml can be found at the aforementioned link.
+
 ClassifyNewGroups.java class is for the classification of 20NewsGroups.
 The data set can be downloaded from http://qwone.com/~jason/20Newsgroups/
 For classification purpose '20news-bydate.tar.gz' was used as it was already divided into test and training set.
+
+
