@@ -15,7 +15,6 @@ https://github.com/colloquial/javabook/tree/master/src/applucene/src/com/colloqu
 I have hard coded the path of the train and test directories and the location where the index has to be created.
 The original code uses xml for specifying the path. The xml can be found at the aforementioned link.
 
-The optput has been modified a bit and it looks like the following after adjusting the spaces.
 The confusion matrix looks like below.
 
 News Groups  | alt.atheism | comp.graphics | comp.os.ms-windows.misc | comp.sys.ibm.pc.hardware | comp.sys.mac.hardware | comp.windows.x | misc.forsale | rec.autos | rec.motorcycles | rec.sport.baseball | rec.sport.hockey | sci.crypt | sci.electronics | sci.med | sci.space | soc.religion.christian | talk.politics.guns | talk.politics.mideast | talk.politics.misc | talk.religion.misc
